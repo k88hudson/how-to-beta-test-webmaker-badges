@@ -4,7 +4,6 @@ Webmaker badges (beta) is live on [https://webmaker.mofostaging.net](https://web
 
 ## What badges are available?
 
-
 Currently, there are two badges live on [webmaker.mofostaging.net](https://webmaker.mofostaging.net):
 
 1. [Webmaker Super Mentor](https://webmaker.mofostaging.net/badges/webmaker-super-mentor
@@ -13,23 +12,75 @@ Currently, there are two badges live on [webmaker.mofostaging.net](https://webma
 2. [Hive Community Member](https://webmaker.mofostaging.net/badges/hive-community-member
 ): This badge is for active Hive members that have demonstrated Peer Observation, Resource Sharing, and Process Documentation.
 
-## I'm a Webmaker/Hive administrator. What can I do?
+## What is 'staging'?
 
-1. Make sure you have a Webmaker admin account (needs steps).
-2. Go to webmaker.org/admin/badges to see a list of badges
-3. Try issuing badges
-4. Try deleting and re-issuing a badge to yourself
+'Staging' ([webmaker.mofostaging.net](https://webmaker.mofostaging.net)) is our test server for webmaker.org. That means any badges you earn or issue **won't be connected to your real Webmaker account**.
 
-TODO
+## Where do my badges show up?
 
-## How do I issue several badges at once?
+On your [Webmaker profile (staging)](https://webmaker.mofostaging.net/user/#!/[username]/badges), which you can find at https://webmaker.mofostaging.net/user/#!/[username]/badges.
 
-TODO
+For example, this is [k88hudson's profile](https://webmaker.mofostaging.net/user/#!/k88hudson/badges).
+
+## How do I apply for badges?
+
+Click the `Apply` button for either of these pages:
+
+* [Hive Community Member](https://webmaker.mofostaging.net/badges/hive-community-member)
+
+* [Webmaker Super Mentor](https://webmaker.mofostaging.net/badges/webmaker-super-mentor)
+
+## How do I issue badges?
+
+You must be an administrator or have a Webmaker Super Mentor badge.
+
+To issue the [Hive Community Member](https://webmaker.mofostaging.net/badges/hive-community-member
+), make sure you are signed in to Persona. Click the "Issue badge" button on that page.
 
 
-## I'm not an administrator. What can I do?
+## How do I approve badge applications?
 
-1. Apply for a [Hive Community Member](https://webmaker.mofostaging.net/badges/hive-community-member
-) badge, or a [Webmaker Super Mentor](https://webmaker.mofostaging.net/badges/webmaker-super-mentor
-) if you want to try issuing badges.
+You must be an administrator or have a Webmaker Super Mentor badge.
+
+Sign into [Badgekit](https://badgekit.mofostaging.net) with Persona. Click on the 'Applications' tab. 
+If you do not see this tab or any applications, contact @k88hudson or @echristensen on IRC to add you to the admin group.
+
+![Applications tab](https://k88hudson-screenshots.s3.amazonaws.com/screen-shots/k88mac@2x_2014-05-20_at_5.56.28_PM.png)
+
+Click on the +[number] button to see all applications
+![](https://k88hudson-screenshots.s3.amazonaws.com/screen-shots/k88mac@2x_2014-05-20_at_5.58.00_PM.png)
+
+In the criteria tab, make sure you click 'Meets criterion' for each criterion.
+![](https://k88hudson-screenshots.s3.amazonaws.com/screen-shots/k88mac@2x_2014-05-20_at_5.58.48_PM.png)
+
+In the Finish tab, click 'Submit Review' to submit your review.
+![](https://k88hudson-screenshots.s3.amazonaws.com/screen-shots/k88mac@2x_2014-05-20_at_5.59.41_PM.png)
+
+
+## I'm a Webmaker/Hive administrator. What else can I do?
+
+First make sure you have a Webmaker admin account on mofostaging. There should be a little admin badge next to your username in the top right corner of Webmaker. If there isn't, ask @k88hudson, @cade or @jbuck in #webmaker on IRC to make you an admin:
+
+![admin badge](https://k88hudson-screenshots.s3.amazonaws.com/screen-shots/k88mac@2x_2014-05-20_at_5.34.50_PM.png)
+
+Go to [https://webmaker.mofostaging.net/admin/badges](webmaker.mofostaging.org/admin/badges) to see a list of badges.
+
+![](https://k88hudson-screenshots.s3.amazonaws.com/screen-shots/k88mac@2x_2014-05-20_at_6.01.04_PM.png
+)
+
+Click on a badge. Try issuing a [Hive Community Member](https://webmaker.mofostaging.org/admin/hive-community-member) badge, or a [Webmaker Super Mentor](https://webmaker.mofostaging.org/admin/badges/webmaker-super-mentor) badge by using the 'issue new badge' input:
+
+![Admin panel](https://k88hudson-screenshots.s3.amazonaws.com/screen-shots/k88mac@2x_2014-05-20_at_5.44.49_PM.png)
+
+Also try deleting and re-issuing a badge to yourself through the admin interface.
+
+
+## What's next? When is this shipping to prod?
+
+We're planning to ship everything you see here, along with some new web literacy badges, to production by **June 15**.
+
+For a full roadmap of bugs and deliverables see [https://wiki.mozilla.org/Webmaker/Badges](https://wiki.mozilla.org/Webmaker/Badges)
+
+
+
 
