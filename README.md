@@ -1,4 +1,4 @@
-# Webmaker Badges beta testing FAQ
+# Webmaker Badges beta testing: how to help
 
 Webmaker badges (beta) is live on [https://webmaker.mofostaging.net](https://webmaker.mofostaging.net)! Here's everything you need to know to help us beta test.
 
